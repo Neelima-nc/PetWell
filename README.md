@@ -1,6 +1,8 @@
 Checkpoint 2 - Simple Prototype 
 PetWell ProtoType Demo -  https://pr.to/HX1B8V/
 1. Vet Directory[PetWellPrototype.pdf](https://github.com/user-attachments/files/17545614/PetWellPrototype.pdf)
+2. [PetWell_ProtoType_Details.pdf](https://github.com/user-attachments/files/17546056/PetWell_ProtoType_Details.pdf)
+
  1. List of features needed for the MVP & Task Breakdown
 
     - Features: 
