@@ -1,9 +1,9 @@
 Checkpoint 2 - Simple Prototype 
-
+PetWell ProtoType Demo -  https://pr.to/HX1B8V/
+1. Vet Directory[PetWellPrototype.pdf](https://github.com/user-attachments/files/17545614/PetWellPrototype.pdf)
  1. List of features needed for the MVP & Task Breakdown
 
- 1. Vet Directory
-   - Features: 
+    - Features: 
      - Searchable list of local veterinarians, clinics, and services.
      - Include basic details (contact, location, service types).
    - Tasks:
